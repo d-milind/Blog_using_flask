@@ -1,0 +1,22 @@
+{
+  "params":
+  {
+    "local_server": "True",
+    "local_uri": "mysql://root@localhost/doanything",
+    "prod_uri": "mysql://root@localhost/doanything",
+    "fb_url": "https://www.facebook.com/doanything",
+    "gh_url": "https://github.com/d-milind",
+    "tw_url": "https://twitter.com/explore",
+    "blog_name": "Do Anything",
+    "sub_line": "Theame liked by all... Everyone likes",
+    "mail_user": "milind@gmail.com",
+    "mail_password": "milind",
+    "about_text": "Hi my name is Milind & I am Maths expert",
+    "no_of_posts": 2,
+    "login_image": "login.svg",
+    "admin_user": "milind",
+    "admin_password": "milind",
+    "upload_location": "C:\\Milind\\Python\\PythonWorkspace\\Flask_tutorial\\static"
+  }
+
+}
